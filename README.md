@@ -1,4 +1,4 @@
-# Hệ Thống Adaptive Agentic RAG (Tư vấn Du học & Khướng nghiệp)
+# Hệ Thống Adaptive Agentic RAG (Tư vấn Du học & Hướng nghiệp)
 
 Hệ thống RAG đa tác nhân thích ứng được thiết kế để cung cấp câu trả lời chính xác, có cơ sở và minh bạch cho các câu hỏi về hướng nghiệp (theo mã Holland/RIASEC) và du học. Hệ thống kết hợp khả năng suy luận của LLM (Ollama) với hạ tầng sự kiện bất đồng bộ (Inngest) và tìm kiếm lai (Hybrid Search).
 
