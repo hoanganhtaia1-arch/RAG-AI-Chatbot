@@ -1,0 +1,22 @@
+[
+  {
+    "question": "Làm sao để chuẩn bị hồ sơ xin visa du học Mỹ 2026?",
+    "selected_agent": "vi_general",
+    "topic": "general"
+  },
+  {
+    "question": "Mức học phí đại học Toronto của Canada và chi phí sinh hoạt là bao nhiêu?",
+    "selected_agent": "vi_general",
+    "topic": "general"
+  },
+  {
+    "question": "Đăng ký thi IELTS cần đạt bn điểm để học thạc sĩ IT?",
+    "selected_agent": "agent_ec_professional",
+    "topic": "ec_professional"
+  },
+  {
+    "question": "Bạn có thể viết cho tôi một bài code Python không?",
+    "selected_agent": "vi_general",
+    "topic": "general"
+  }
+]

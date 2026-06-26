@@ -1,0 +1,62 @@
+# ── Secrets & Environment ─────────────────────────────────────────────────────
+.env
+.env.*
+!.env.example
+
+# ── Python ────────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+
+# ── Virtual environments ──────────────────────────────────────────────────────
+.venv/
+.venv312/
+venv/
+env/
+
+# ── uv / pip ──────────────────────────────────────────────────────────────────
+.uv-cache/
+uv.lock
+
+# ── IDE ───────────────────────────────────────────────────────────────────────
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# ── macOS ─────────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+
+# ── Database & State ──────────────────────────────────────────────────────────
+*.db
+*.sqlite
+*.sqlite3
+*.pkl
+
+# ── Qdrant local storage ──────────────────────────────────────────────────────
+qdrant_storage/
+
+# ── Uploaded files & Sensitive CV / Reference materials ───────────────────────
+uploads/
+CV/
+*tham*
+*khao*
+*khảo*
+*liệu*
+*liệu*
+
+# ── Test / Eval outputs ───────────────────────────────────────────────────────
+ragas_results.json
+comparative_results.json
+standard_metrics.json
+.pytest_cache/
+
+# ── Logs ─────────────────────────────────────────────────────────────────────
+*.log
